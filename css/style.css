@@ -1,7 +1,11 @@
 #about_color{
 	color: black;
 }
-
+@media only screen and (max-width: 800px){
+#nlogo{
+    display: none;
+}
+}
 html,
 body {
 	margin: 0;
